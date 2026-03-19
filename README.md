@@ -113,9 +113,9 @@ source .venv/Scripts/activate
 
 - `git add .` 사용 금지  
   → 필요한 파일만 개별적으로 `git add` 해주세요.
-- 대용량 파일 업로드 금지  
-- 공용 저장소에는 코드, 문서, 설정 파일 위주로 관리하고  
-  대용량 데이터 및 산출물은 구글 드라이브에서 관리합니다.
+- 대용량 파일 업로드 금지
+- 공용 저장소에는 코드, 문서, 설정 파일 위주로 관리하고\
+  대용량 데이터 및 산출물은 구글 드라이브[🔗](https://drive.google.com/drive/folders/1GnmR5mnsTjVaTYijMxV99tGETrJBbVLo?usp=sharing)에서 관리합니다.\
 
 ---
 ## 전체 폴더 구조 설명
