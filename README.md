@@ -125,11 +125,12 @@ sparta-data11-practical-project/
 │  ├─ data/                       # 공동 데이터 (원본, 수정 금지)
 │  └─ integrated_analysis.ipynb   # 공용 통합 분석 파일
 │
-├─ member1/                       # 개인 작업 공간
-├─ member2/
-├─ member3/
-├─ member4/
-├─ member5/
+├─ notebooks/
+│  ├─ member1/            # 개인 작업물
+│  ├─ member2/
+│  ├─ member3/
+│  ├─ member4/
+│  └─ member5/
 │
 ├─ pyproject.toml
 ├─ uv.lock

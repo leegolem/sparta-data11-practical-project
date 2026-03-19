@@ -56,14 +56,16 @@ git add "본인폴더명"
 # 프로젝트 파일 구성
 ```
 sparta-data11-practical-project/
-├─ integrated/            # 공용 전처리 파일 및 데이터
-│  └─ data/               # 공동 데이터 (원본, 수정 금지)
+├─ integrated/                    # 공용 통합 작업 폴더
+│  ├─ data/                       # 공동 데이터 (원본, 수정 금지)
+│  └─ integrated_analysis.ipynb   # 공용 통합 분석 파일
 │
-├─ member1/            # 개인 작업물
-├─ member2/
-├─ member3/
-├─ member4/
-├─ member5/
+├─ notebooks/
+│  ├─ member1/            # 개인 작업물
+│  ├─ member2/
+│  ├─ member3/
+│  ├─ member4/
+│  └─ member5/
 │
 ├─ pyproject.toml
 ├─ uv.lock
