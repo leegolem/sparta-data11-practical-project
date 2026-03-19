@@ -58,12 +58,12 @@
   - seaborn
   - plotly
 
-통계
+- 통계
   - scipy
   - statsmodels
   - pingouin
 
-머신러닝
+- 머신러닝
   - scikit-learn
   - xgboost
   - lightgbm
@@ -136,6 +136,7 @@ sparta-data11-practical-project/
 ├─ README.md
 └─ .gitignore
 ```
+
 폴더 역할 정리
 - integrated/
     - 팀 공용 데이터 및 통합 분석 파일을 관리하는 폴더
