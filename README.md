@@ -48,6 +48,28 @@
 - 가상환경 및 패키지 관리: `uv`
 - 주요 작업 도구: VSCode, Jupyter Notebook
 
+### 설치된 주요 패키지
+- 데이터 처리
+  - pandas
+  - numpy
+
+- 시각화
+  - matplotlib
+  - seaborn
+  - plotly
+
+통계
+  - scipy
+  - statsmodels
+  - pingouin
+
+머신러닝
+  - scikit-learn
+  - xgboost
+  - lightgbm
+  - catboost
+
+
 ## 협업 규칙
 자세한 협업 규칙은 아래 문서를 확인해주세요.
 - [RULES.md](./RULES.md)
